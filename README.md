@@ -24,4 +24,4 @@ jar 파일을 다운받은 경로로 이동해주세요!
 [유저이름]과 [비번]은 사용자분들께서 임의로 설정하는 것이고 괄호([])는 빼주셔야 합니다!
 
 ex.
-> java -jar -Dfile.encoding=UTF-8 acmicpc-0.0.1-SNAPSHOT.jar --spring.datasource.user=root --spring.datasource.password=1234
+' java -jar -Dfile.encoding=UTF-8 acmicpc-0.0.1-SNAPSHOT.jar --spring.datasource.user=root --spring.datasource.password=1234 '
